@@ -1,0 +1,70 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Look"
+   crs:Cluster=""
+   crs:UUID="47556F4CB8FA9148B6A4BFA6B733EF75"
+   crs:SupportsAmount="True"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="11.0"
+   crs:ProcessVersion="11.0"
+   crs:IncrementalTemperature="-1"
+   crs:IncrementalTint="-6"
+   crs:Vibrance="-14"
+   crs:HueAdjustmentBlue="-8"
+   crs:LuminanceAdjustmentBlue="-11"
+   crs:SplitToningShadowHue="206"
+   crs:SplitToningShadowSaturation="34"
+   crs:SplitToningHighlightHue="51"
+   crs:SplitToningHighlightSaturation="38"
+   crs:SplitToningBalance="+12"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="+7"
+   crs:ParametricLights="+30"
+   crs:ParametricHighlights="-10"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:Contrast2012="+65"
+   crs:Highlights2012="-39"
+   crs:Shadows2012="+71"
+   crs:Clarity2012="-21"
+   crs:ConvertToGrayscale="False"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">05. Portrait 1</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">PhotoTraces - Free Profiles</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
