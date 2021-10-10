@@ -1,0 +1,198 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="D756156A32BD4960B2C68FC5B18122C8"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="11.3"
+   crs:WhiteBalance="As Shot"
+   crs:IncrementalTemperature="0"
+   crs:IncrementalTint="0"
+   crs:Saturation="-15"
+   crs:Sharpness="55"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="0"
+   crs:Vibrance="0"
+   crs:HueAdjustmentRed="+30"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="+20"
+   crs:HueAdjustmentGreen="-50"
+   crs:HueAdjustmentAqua="-100"
+   crs:HueAdjustmentBlue="-100"
+   crs:HueAdjustmentPurple="+50"
+   crs:HueAdjustmentMagenta="+100"
+   crs:SaturationAdjustmentRed="0"
+   crs:SaturationAdjustmentOrange="0"
+   crs:SaturationAdjustmentYellow="-70"
+   crs:SaturationAdjustmentGreen="-90"
+   crs:SaturationAdjustmentAqua="-85"
+   crs:SaturationAdjustmentBlue="-95"
+   crs:SaturationAdjustmentPurple="-35"
+   crs:SaturationAdjustmentMagenta="0"
+   crs:LuminanceAdjustmentRed="0"
+   crs:LuminanceAdjustmentOrange="0"
+   crs:LuminanceAdjustmentYellow="0"
+   crs:LuminanceAdjustmentGreen="0"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="0"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="210"
+   crs:SplitToningShadowSaturation="15"
+   crs:SplitToningHighlightHue="210"
+   crs:SplitToningHighlightSaturation="15"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.1"
+   crs:SharpenDetail="50"
+   crs:SharpenEdgeMasking="30"
+   crs:PostCropVignetteAmount="-10"
+   crs:PostCropVignetteMidpoint="50"
+   crs:PostCropVignetteFeather="50"
+   crs:PostCropVignetteRoundness="0"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="0"
+   crs:GrainAmount="0"
+   crs:AutoLateralCA="0"
+   crs:Exposure2012="+0.50"
+   crs:Contrast2012="+50"
+   crs:Highlights2012="-80"
+   crs:Shadows2012="+70"
+   crs:Whites2012="-60"
+   crs:Blacks2012="-10"
+   crs:Clarity2012="+25"
+   crs:DefringePurpleAmount="0"
+   crs:DefringePurpleHueLo="30"
+   crs:DefringePurpleHueHi="70"
+   crs:DefringeGreenAmount="0"
+   crs:DefringeGreenHueLo="40"
+   crs:DefringeGreenHueHi="60"
+   crs:Dehaze="0"
+   crs:Texture="0"
+   crs:ConvertToGrayscale="False"
+   crs:OverrideLookVignette="True"
+   crs:ToneCurveName="Custom"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Default Color"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Fusrsy Tone By Jesen</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Khusus Di Gunung/Hutan/Alam</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>39, 12</rdf:li>
+     <rdf:li>141, 72</rdf:li>
+     <rdf:li>215, 134</rdf:li>
+     <rdf:li>255, 193</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <crs:ToneCurveRed>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>29, 28</rdf:li>
+     <rdf:li>71, 90</rdf:li>
+     <rdf:li>127, 190</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveRed>
+   <crs:ToneCurveGreen>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>30, 32</rdf:li>
+     <rdf:li>82, 122</rdf:li>
+     <rdf:li>127, 190</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveGreen>
+   <crs:ToneCurveBlue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>30, 37</rdf:li>
+     <rdf:li>75, 108</rdf:li>
+     <rdf:li>126, 190</rdf:li>
+     <rdf:li>182, 226</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveBlue>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>39, 12</rdf:li>
+     <rdf:li>141, 72</rdf:li>
+     <rdf:li>215, 134</rdf:li>
+     <rdf:li>255, 193</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>29, 28</rdf:li>
+     <rdf:li>71, 90</rdf:li>
+     <rdf:li>127, 190</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>30, 32</rdf:li>
+     <rdf:li>82, 122</rdf:li>
+     <rdf:li>127, 190</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>30, 37</rdf:li>
+     <rdf:li>75, 108</rdf:li>
+     <rdf:li>126, 190</rdf:li>
+     <rdf:li>182, 226</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look
+    crs:Name=""/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

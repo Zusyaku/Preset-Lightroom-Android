@@ -1,0 +1,199 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="50A84FE077B14AC3A4443E2562A7BE06"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="11.1"
+   crs:WhiteBalance="Custom"
+   crs:IncrementalTemperature="+1"
+   crs:IncrementalTint="-1"
+   crs:Saturation="+15"
+   crs:Sharpness="0"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="0"
+   crs:Vibrance="-1"
+   crs:HueAdjustmentRed="-33"
+   crs:HueAdjustmentOrange="+12"
+   crs:HueAdjustmentYellow="+100"
+   crs:HueAdjustmentGreen="-100"
+   crs:HueAdjustmentAqua="-100"
+   crs:HueAdjustmentBlue="-100"
+   crs:HueAdjustmentPurple="-96"
+   crs:HueAdjustmentMagenta="+100"
+   crs:SaturationAdjustmentRed="+4"
+   crs:SaturationAdjustmentOrange="-40"
+   crs:SaturationAdjustmentYellow="-100"
+   crs:SaturationAdjustmentGreen="-100"
+   crs:SaturationAdjustmentAqua="-98"
+   crs:SaturationAdjustmentBlue="-100"
+   crs:SaturationAdjustmentPurple="-99"
+   crs:SaturationAdjustmentMagenta="-100"
+   crs:LuminanceAdjustmentRed="0"
+   crs:LuminanceAdjustmentOrange="0"
+   crs:LuminanceAdjustmentYellow="+100"
+   crs:LuminanceAdjustmentGreen="+100"
+   crs:LuminanceAdjustmentAqua="+99"
+   crs:LuminanceAdjustmentBlue="+100"
+   crs:LuminanceAdjustmentPurple="+100"
+   crs:LuminanceAdjustmentMagenta="+100"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="0"
+   crs:SplitToningHighlightSaturation="0"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="+30"
+   crs:ParametricDarks="+9"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="+30"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="0"
+   crs:GrainAmount="0"
+   crs:AutoLateralCA="1"
+   crs:Exposure2012="+0.04"
+   crs:Contrast2012="-50"
+   crs:Highlights2012="+100"
+   crs:Shadows2012="+31"
+   crs:Whites2012="+36"
+   crs:Blacks2012="+25"
+   crs:Clarity2012="+100"
+   crs:DefringePurpleAmount="0"
+   crs:DefringePurpleHueLo="30"
+   crs:DefringePurpleHueHi="70"
+   crs:DefringeGreenAmount="0"
+   crs:DefringeGreenHueLo="40"
+   crs:DefringeGreenHueHi="60"
+   crs:Dehaze="0"
+   crs:OverrideLookVignette="False"
+   crs:ToneCurveName="Custom"
+   crs:ToneCurveName2012="Custom"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">R-1</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>42, 34</rdf:li>
+     <rdf:li>131, 124</rdf:li>
+     <rdf:li>205, 201</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <crs:ToneCurveRed>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveRed>
+   <crs:ToneCurveGreen>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveGreen>
+   <crs:ToneCurveBlue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveBlue>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>42, 34</rdf:li>
+     <rdf:li>131, 124</rdf:li>
+     <rdf:li>205, 201</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look>
+    <rdf:Description
+     crs:Name="Pro - Snow Blind"
+     crs:Amount="0.490000"
+     crs:Cluster="Presetpro.com"
+     crs:UUID="DDCE8592DB1D48B8B8AD77E823B674C7"
+     crs:Copyright="Presetpro.com Beautiful Lightroom Presets, Brushes and Profiles. https://www.presetpro.com and Tim Martin"
+     crs:ContactInfo="Presetpro.com Beautiful Lightroom Presets, Brushes and Profiles. https://www.presetpro.com and Tim Martin"
+     crs:Stubbed="true">
+    <crs:ShortName>
+     <rdf:Alt>
+      <rdf:li xml:lang="x-default">Snow Blind</rdf:li>
+     </rdf:Alt>
+    </crs:ShortName>
+    <crs:SortName>
+     <rdf:Alt>
+      <rdf:li xml:lang="x-default">26</rdf:li>
+     </rdf:Alt>
+    </crs:SortName>
+    <crs:Group>
+     <rdf:Alt>
+      <rdf:li xml:lang="x-default">Presetpro - Free Profiles</rdf:li>
+     </rdf:Alt>
+    </crs:Group>
+    <crs:Description>
+     <rdf:Alt>
+      <rdf:li xml:lang="x-default">Presetpro.com Beautiful Lightroom Presets, Brushes and Profiles. https://www.presetpro.com and Tim Martin</rdf:li>
+     </rdf:Alt>
+    </crs:Description>
+    </rdf:Description>
+   </crs:Look>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
