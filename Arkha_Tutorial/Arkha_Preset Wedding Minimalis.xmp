@@ -1,0 +1,182 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="87902E217771414984FF98575C1A731F"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="13.1"
+   crs:ProcessVersion="11.0"
+   crs:WhiteBalance="Custom"
+   crs:IncrementalTemperature="+8"
+   crs:IncrementalTint="+4"
+   crs:Exposure2012="+0.52"
+   crs:Contrast2012="-20"
+   crs:Highlights2012="-70"
+   crs:Shadows2012="+52"
+   crs:Whites2012="-62"
+   crs:Blacks2012="+8"
+   crs:Texture="0"
+   crs:Clarity2012="+12"
+   crs:Dehaze="0"
+   crs:Vibrance="+26"
+   crs:Saturation="-20"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:Sharpness="10"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:LuminanceSmoothing="20"
+   crs:LuminanceNoiseReductionDetail="50"
+   crs:LuminanceNoiseReductionContrast="0"
+   crs:ColorNoiseReduction="20"
+   crs:ColorNoiseReductionDetail="50"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:HueAdjustmentRed="+12"
+   crs:HueAdjustmentOrange="-5"
+   crs:HueAdjustmentYellow="-8"
+   crs:HueAdjustmentGreen="+12"
+   crs:HueAdjustmentAqua="+19"
+   crs:HueAdjustmentBlue="+14"
+   crs:HueAdjustmentPurple="+10"
+   crs:HueAdjustmentMagenta="+11"
+   crs:SaturationAdjustmentRed="0"
+   crs:SaturationAdjustmentOrange="-10"
+   crs:SaturationAdjustmentYellow="-84"
+   crs:SaturationAdjustmentGreen="-28"
+   crs:SaturationAdjustmentAqua="-77"
+   crs:SaturationAdjustmentBlue="-64"
+   crs:SaturationAdjustmentPurple="-42"
+   crs:SaturationAdjustmentMagenta="-36"
+   crs:LuminanceAdjustmentRed="-4"
+   crs:LuminanceAdjustmentOrange="+10"
+   crs:LuminanceAdjustmentYellow="+31"
+   crs:LuminanceAdjustmentGreen="+12"
+   crs:LuminanceAdjustmentAqua="-10"
+   crs:LuminanceAdjustmentBlue="+20"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="245"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="239"
+   crs:SplitToningHighlightSaturation="0"
+   crs:SplitToningBalance="0"
+   crs:ColorGradeMidtoneHue="0"
+   crs:ColorGradeMidtoneSat="0"
+   crs:ColorGradeShadowLum="0"
+   crs:ColorGradeMidtoneLum="0"
+   crs:ColorGradeHighlightLum="0"
+   crs:ColorGradeBlending="50"
+   crs:ColorGradeGlobalHue="0"
+   crs:ColorGradeGlobalSat="0"
+   crs:ColorGradeGlobalLum="0"
+   crs:AutoLateralCA="0"
+   crs:DefringePurpleAmount="0"
+   crs:DefringePurpleHueLo="30"
+   crs:DefringePurpleHueHi="70"
+   crs:DefringeGreenAmount="0"
+   crs:DefringeGreenHueLo="40"
+   crs:DefringeGreenHueHi="60"
+   crs:GrainAmount="0"
+   crs:PostCropVignetteAmount="-6"
+   crs:PostCropVignetteMidpoint="62"
+   crs:PostCropVignetteFeather="100"
+   crs:PostCropVignetteRoundness="0"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="0"
+   crs:ShadowTint="0"
+   crs:RedHue="+15"
+   crs:RedSaturation="-4"
+   crs:GreenHue="+24"
+   crs:GreenSaturation="-5"
+   crs:BlueHue="-46"
+   crs:BlueSaturation="-10"
+   crs:ConvertToGrayscale="False"
+   crs:OverrideLookVignette="True"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Default Color"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Arkha_Preset Wedding Minimalis</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Arhiez Preset</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>38, 19</rdf:li>
+     <rdf:li>82, 66</rdf:li>
+     <rdf:li>120, 122</rdf:li>
+     <rdf:li>159, 175</rdf:li>
+     <rdf:li>204, 225</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>28, 10</rdf:li>
+     <rdf:li>57, 35</rdf:li>
+     <rdf:li>84, 71</rdf:li>
+     <rdf:li>115, 118</rdf:li>
+     <rdf:li>148, 165</rdf:li>
+     <rdf:li>188, 212</rdf:li>
+     <rdf:li>224, 240</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>56, 32</rdf:li>
+     <rdf:li>85, 73</rdf:li>
+     <rdf:li>126, 129</rdf:li>
+     <rdf:li>176, 199</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
