@@ -1,0 +1,173 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="68083E51C54A433FAE767D12E309AD49"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="12.4"
+   crs:ProcessVersion="11.0"
+   crs:WhiteBalance="Custom"
+   crs:IncrementalTemperature="+2"
+   crs:IncrementalTint="0"
+   crs:Saturation="-10"
+   crs:Sharpness="20"
+   crs:LuminanceSmoothing="20"
+   crs:ColorNoiseReduction="25"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="0"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="0"
+   crs:BlueSaturation="0"
+   crs:Vibrance="+45"
+   crs:HueAdjustmentRed="+40"
+   crs:HueAdjustmentOrange="+93"
+   crs:HueAdjustmentYellow="+61"
+   crs:HueAdjustmentGreen="-100"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="0"
+   crs:HueAdjustmentPurple="0"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentRed="-16"
+   crs:SaturationAdjustmentOrange="-3"
+   crs:SaturationAdjustmentYellow="+39"
+   crs:SaturationAdjustmentGreen="-20"
+   crs:SaturationAdjustmentAqua="-77"
+   crs:SaturationAdjustmentBlue="-100"
+   crs:SaturationAdjustmentPurple="-100"
+   crs:SaturationAdjustmentMagenta="-100"
+   crs:LuminanceAdjustmentRed="-8"
+   crs:LuminanceAdjustmentOrange="+36"
+   crs:LuminanceAdjustmentYellow="0"
+   crs:LuminanceAdjustmentGreen="-48"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="0"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="36"
+   crs:SplitToningShadowSaturation="7"
+   crs:SplitToningHighlightHue="208"
+   crs:SplitToningHighlightSaturation="23"
+   crs:SplitToningBalance="-40"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="-26"
+   crs:PostCropVignetteMidpoint="27"
+   crs:PostCropVignetteFeather="77"
+   crs:PostCropVignetteRoundness="+23"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="0"
+   crs:GrainAmount="0"
+   crs:LuminanceNoiseReductionDetail="50"
+   crs:ColorNoiseReductionDetail="50"
+   crs:LuminanceNoiseReductionContrast="0"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:AutoLateralCA="0"
+   crs:Exposure2012="+0.10"
+   crs:Contrast2012="+18"
+   crs:Highlights2012="-100"
+   crs:Shadows2012="-45"
+   crs:Whites2012="-100"
+   crs:Blacks2012="0"
+   crs:Clarity2012="+16"
+   crs:DefringePurpleAmount="0"
+   crs:DefringePurpleHueLo="30"
+   crs:DefringePurpleHueHi="70"
+   crs:DefringeGreenAmount="0"
+   crs:DefringeGreenHueLo="40"
+   crs:DefringeGreenHueHi="60"
+   crs:Dehaze="+29"
+   crs:Texture="+1"
+   crs:OverrideLookVignette="True"
+   crs:ToneCurveName2012="Custom"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Arkha Story_Cinematik</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Preset Lightroom - Arkha Story </rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>75, 58</rdf:li>
+     <rdf:li>209, 196</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look>
+    <rdf:Description
+     crs:Name="Artistic 03"
+     crs:Amount="1.260000"
+     crs:Cluster="Adobe"
+     crs:UUID="5E446105ADA1B13B89A0B673FB16ABA1"
+     crs:SupportsMonochrome="false"
+     crs:Copyright="© 2018 Adobe Systems, Inc."
+     crs:Stubbed="true">
+    <crs:Group>
+     <rdf:Alt>
+      <rdf:li xml:lang="x-default">Artistic</rdf:li>
+     </rdf:Alt>
+    </crs:Group>
+    </rdf:Description>
+   </crs:Look>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
